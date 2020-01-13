@@ -27,7 +27,7 @@
   }
 
   function download() {
-    downloadLink.href = "data:text/plain," + JSON.stringify(config);
+    downloadLink.href = "data:text/plain," + JSON.stringify(config, null, 2);
   }
 </script>
 
