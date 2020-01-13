@@ -9,7 +9,7 @@ OModbus is a GUI to interact with modbus devices.
 Install the dependencies...
 
 ```bash
-cd svelte-app
+cd omodbus
 npm install
 ```
 
