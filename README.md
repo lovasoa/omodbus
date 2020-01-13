@@ -2,6 +2,8 @@
 
 OModbus is a GUI to interact with modbus devices.
 
+![screenshot](./screenshot.png)
+
 ## Get started
 
 Install the dependencies...
